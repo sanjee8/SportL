@@ -5,7 +5,7 @@ de consulter des profils de joueurs inscrit sur l'application mobile, regarder l
 contact avec eux pour eventuellement les recruter. Un modèle MVC a été mis en place pour pouvoir continuer ultérieurement le développement du projet.
 
 # Technologies
-Voici les technologies utilisés durant le développement de ce projet
+Voici les technologies utilisées durant le développement de ce projet
 * Langages : PHP, HTML, CSS, JavaScript, SQL
 * Bootstrap
 * Composer
