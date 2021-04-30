@@ -15,7 +15,7 @@ Voici les technologies utilisées durant le développement de ce projet
 
 # Membres
 Les personnes ayant participé au projet
-* Ramsanjeevan RAMMOHAN
+* Sanjeevan RAMMOHAN
 * Jean-Yves BUISSERETH
 * Enrick LLARI
 * Souhil NOUIOUA
