@@ -13,12 +13,3 @@ Voici les technologies utilisées durant le développement de ce projet
 * MySQL
 
 
-# Membres
-Les personnes ayant participé au projet
-* Sanjeevan RAMMOHAN
-* Jean-Yves BUISSERETH
-* Enrick LLARI
-* Souhil NOUIOUA
-* Yanis Ortiz Gonzalez Garcia
-
-
